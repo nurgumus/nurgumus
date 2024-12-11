@@ -4,9 +4,9 @@
 ./づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊°.~♡︎<br/>
 https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG?si=wPoFwuo1S7e6O3CnCTw5xw
 
-👋 Hello, I'm Nur! 🐱
-Senior Mathematical Engineering Student
-Data Science, AI, and Mathematical Modeling
-Currently exploring LLMs and their real-world applications
+👋 Hello, I'm Nur! 🐱 <br/>
+Senior Mathematical Engineering Student <br/>
+Data Science, AI, and Mathematical Modeling <br/>
+Currently exploring LLMs and their real-world applications <br/>
 
 
