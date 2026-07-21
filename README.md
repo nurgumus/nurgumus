@@ -15,7 +15,7 @@
 
 
 
-Data Science, AI, and Mathematical Modeling <br/>
+AI, and Mathematical Modeling <br/>
 Currently exploring LLMs and their real-world applications <br/>
 
 
